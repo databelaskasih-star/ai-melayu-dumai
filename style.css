@@ -1,0 +1,49 @@
+body {
+font-family: serif;
+background: #f4f1ec;
+}
+
+
+.app {
+max-width: 500px;
+margin: 40px auto;
+background: #fff;
+padding: 20px;
+border-radius: 12px;
+}
+
+
+h1 {
+text-align: center;
+}
+
+
+.subtitle {
+text-align: center;
+font-style: italic;
+}
+
+
+.output {
+background: #eee;
+padding: 15px;
+margin-bottom: 10px;
+border-radius: 8px;
+}
+
+
+input {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+
+button {
+width: 100%;
+padding: 10px;
+background: #5a3e2b;
+color: white;
+border: none;
+border-radius: 8px;
+}
